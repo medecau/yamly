@@ -8,4 +8,5 @@ setup(name = 'yamly',
       author_email = "medecau@gmail.com",
       license = 'MIT',
       url = "http://medecau.github.com/pyyaml/",
+      install_requires = ["pyyaml"],
       )
